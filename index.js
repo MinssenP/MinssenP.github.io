@@ -1,9 +1,11 @@
 CLASSES = {
-  0: 'class0',
-  1: 'class1',
-  2: 'class2',
-  3: 'class3',
-  4: 'class4',
+  0: 'alma',
+  1: 'butler',
+  2: 'fontain',
+  3: 'lion',
+  4: 'posseidon',
+  5: 'thing',
+  6: 'uris'
 };
 
 const MODEL_PATH =
